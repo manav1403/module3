@@ -1,0 +1,12 @@
+@media(min-width: 768px){
+.b1{
+
+display: none;
+visibility: hidden;
+}}
+.row div{
+	background-color: #846c6c;
+	
+	border: solid 5px;
+
+}
